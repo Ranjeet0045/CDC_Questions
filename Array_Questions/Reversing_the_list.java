@@ -1,5 +1,5 @@
 package Array_Questions;
-//In this question we have to reverse the list after positio k
+//In this question we have to reverse the list after position k
 
 import java.util.ArrayList;
 
