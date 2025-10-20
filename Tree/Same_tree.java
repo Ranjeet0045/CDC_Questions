@@ -1,4 +1,3 @@
-
 public class Same_tree {
 
     public static  boolean isSameTree(TreeNode p, TreeNode q) {

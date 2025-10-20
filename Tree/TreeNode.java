@@ -1,5 +1,4 @@
 //This is constructor and though it is public so it can be accessed outside the class...
-
 public class TreeNode {
     int val;
     TreeNode left;

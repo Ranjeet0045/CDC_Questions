@@ -1,4 +1,3 @@
-
 public class Height_of_tree {
 
     public static int maxDepth(TreeNode root) {
