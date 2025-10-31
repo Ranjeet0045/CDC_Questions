@@ -1,4 +1,4 @@
-package Matrix_Questions;
+package Dynamic_programming;
 
 import java.util.Arrays;
 
