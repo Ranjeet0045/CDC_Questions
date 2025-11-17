@@ -45,6 +45,7 @@ public class Combination_sum_4 {
         int target = 4;
         int ans1 = combinationSum4(nums, target);
         System.out.println(ans1);
+        
         int ans2 = tabulation(nums, target);
         System.out.println(ans2);
     }
